@@ -1,0 +1,10 @@
+    "name": "FC PORTO Fan token",
+    "type": "BEP20",
+    "symbol": "PORTO",
+    "decimals": 18,
+    "website": "https://www.fcporto.pt/",
+    "description": "PORTO (FC PORTO Fan token) is an elastic supply token that is mathematically guaranteed to increase in price until it exceeds the price of bitcoin",
+    "explorer": "https://www.bscscan.com/token/0xccabcd0a40d717032d16f0aac3f41659be0d3517",
+    "status": "active",
+    "id": "0xccabcd0a40d717032d16f0aac3f41659be0d3517"
+}
